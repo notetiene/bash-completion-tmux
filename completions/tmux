@@ -1,4 +1,7 @@
-#!/usr/bin/env bash
+# -*- mode: sh; sh-shell: bash -*-
+# vim:ft=sh:
+
+# /bin/echo -e '\033[1;32mIn .bash/bash-completion.d/tmux-completion.bash\033[0m'
 
 # Copy of https://github.com/Bash-it/bash-it/blob/master/completion/available/tmux.completion.bash
 # and https://github.com/przepompownia/bash-it/blob/master/completion/available/tmux.completion.bash
